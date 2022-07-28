@@ -14,7 +14,7 @@ As somewhat implied by the above summary, when presented with the somewhat stagg
 
 As we can see from the Titles summary:
 
-- the vast majority of retiring employees - over 50,000 - are senior-level, and will be taking with them a breadth and depth of institutional knowledge
+- The vast majority of retiring employees - over 50,000 - are senior-level, and will be taking with them a breadth and depth of institutional knowledge
 - Pewlett-Hackard will be losing over 36,000 engineers and over 32,000 staff, as well as 3,600 Technique Leaders and 2 managers - and while not being a siginificant number of employees, the two retiring managers *do* comprise 40% of current management. 
 - We can see that not only are we losing high-level employees, but certain specific employee types that aren't easily replacable. 
 
@@ -22,5 +22,8 @@ In looking at our eligible employee mentors, specifically those born in 1965,
 
 ![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Mentorship_Eligibility.PNG)
 
+- We can see that even the among small sample PgAdmin returns 
+    - shows the exact titles we are looking to train for. We certainly should examine the mentorship group further, but so far, the group appears to be who we're looking for. 
+    - shows employees with many years of experience within Pewlett-Hackard, who undoubtedly know the company's standards and procedures.
 
 ## Summary
