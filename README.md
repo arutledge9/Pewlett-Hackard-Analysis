@@ -28,8 +28,8 @@ In looking at our eligible employee mentors, specifically those born in 1965,
 
 ## Summary
 
-If filled at exactly the same experience levels and competencies, Pewlett-Hackard would need to replace nearly 72,500 roles (72,458) after the coming "silver tsunami." At a quick glance into the employee database, it appears the company currently has the required staff to fill these high-level roles.
+If filled at exactly the same experience levels and competencies, Pewlett-Hackard would need to replace nearly 72,500 roles (72,458) after the coming "silver tsunami." After querying the employee database, it appears the company currently has the required staff to fill these high-level roles.
 
-
+![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Remaining_Employees.PNG)
 
 At first glance 
