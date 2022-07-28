@@ -15,7 +15,7 @@ As somewhat implied by the above summary, when presented with the somewhat stagg
 As we can see from the Titles summary:
 
 - The vast majority of retiring employees - over 50,000 - are senior-level, and will be taking with them a breadth and depth of institutional knowledge
-- Pewlett-Hackard will be losing over 36,000 engineers and over 32,000 staff, as well as 3,600 Technique Leaders and 2 managers - and while not being a siginificant number of employees, the two retiring managers *do* comprise 40% of current management. 
+- Pewlett-Hackard will be losing over 36,000 engineers and over 32,000 staff, as well as 3,600 Technique Leaders and 2 managers - and while not being a siginificant number of employees, the two retiring managers *do* comprise a decent proportion of current management. 
 - We can see that not only are we losing high-level employees, but certain specific employee types that aren't easily replacable. 
 
 In looking at our eligible employee mentors, specifically those born in 1965, 
@@ -27,3 +27,9 @@ In looking at our eligible employee mentors, specifically those born in 1965,
     - shows employees with many years of experience within Pewlett-Hackard, who undoubtedly know the company's standards and procedures.
 
 ## Summary
+
+If filled at exactly the same experience levels and competencies, Pewlett-Hackard would need to replace nearly 72,500 roles (72,458) after the coming "silver tsunami." At a quick glance into the employee database, it appears the company currently has the required staff to fill these high-level roles.
+
+
+
+At first glance 
