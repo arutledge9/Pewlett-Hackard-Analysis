@@ -10,6 +10,6 @@ Results: Provide a bulleted list with four major points from the two analysis de
 
 As somewhat implied by the above summary, when presented with the somewhat staggering number of potential retirees (nearly 72,500!), our leadership at Pewlett immediately concluded more drilled-down data was needed to determine where within the company the impacts would be felt most. 
 
-![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Retirements_by_Title.png)
+![](Resources/Retirements_by_Title.png)
 
 ## Summary
