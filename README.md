@@ -28,8 +28,12 @@ In looking at our eligible employee mentors, specifically those born in 1965,
 
 ## Summary
 
-If filled at exactly the same experience levels and competencies, Pewlett-Hackard would need to replace nearly 72,500 roles (72,458) after the coming "silver tsunami." After querying the employee database, it appears the company currently has the required staff to fill these high-level roles.
+If filled at exactly the same experience levels and competencies, Pewlett-Hackard would need to replace nearly 72,500 roles (72,458) after the coming "silver tsunami." After querying the employee database, it also appears the company currently has the required staff to fill these high-level roles.
 
-![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Remaining_Employees.PNG)
+![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Remaining__Employees.PNG)
 
-At first glance 
+Not having experience in employee training methods or Human Resources, I'm not qualified to definitively say whether the 1,549 employees we chose as eligible to mentor others are sufficient to meet the needs of Pewlett-Hackard's next generation of employees. However, from my own experience, I've always learned and taught much better the closer the student:teacher ratio has been to 1:1, and it does seem rather arbitrary that we chose only employees born in 1965 to be eligible. 
+
+Since our "silver tsunami" employees are those born from 1952-1955, it seems logical to choose those born immediately after to serve as mentors. If we changed the age requirements to allow all employees born from 1956 - 1965, we might have an incredible number of potential mentors and, at the same time, develop a workplace culture of educating and mentoring that outlasts the current retirement crisis. 
+
+
