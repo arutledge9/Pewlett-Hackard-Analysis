@@ -36,4 +36,6 @@ Not having experience in employee training methods or Human Resources, I'm not q
 
 Since our "silver tsunami" employees are those born from 1952-1955, it seems logical to choose those born immediately after to serve as mentors. If we changed the age requirements to allow all employees born from 1956 - 1965, we might have an incredible number of potential mentors and, at the same time, develop a workplace culture of educating and mentoring that outlasts the current retirement crisis. 
 
+![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Mentorship_Eligibility_Expanded.PNG)
 
+Fascinatingly, Pewlett-Hackard hasn't hired a single employee born after 1965, so its entire workforce can serve as mentors to the incoming generation of Pewlett-Hackard employees, and will definitely need to, as they all will undoubtedly retire within the coming decade - or sooner! Despite my earlier desitation, I can now definitely say the company has enough qualified, retirement-ready employees to mentor the next generation. 
