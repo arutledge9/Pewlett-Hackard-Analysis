@@ -12,4 +12,15 @@ As somewhat implied by the above summary, when presented with the somewhat stagg
 
 ![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Retirements_by_Title.PNG)
 
+As we can see from the Titles summary:
+
+- the vast majority of retiring employees - over 50,000 - are senior-level, and will be taking with them a breadth and depth of institutional knowledge
+- Pewlett-Hackard will be losing over 36,000 engineers and over 32,000 staff, as well as 3,600 Technique Leaders and 2 managers - and while not being a siginificant number of employees, the two retiring managers *do* comprise 40% of current management. 
+- We can see that not only are we losing high-level employees, but certain specific employee types that aren't easily replacable. 
+
+In looking at our eligible employee mentors, specifically those born in 1965, 
+
+![](Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/Mentorship_Eligibility.PNG)
+
+
 ## Summary
